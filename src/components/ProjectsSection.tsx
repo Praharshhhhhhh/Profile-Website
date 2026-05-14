@@ -16,7 +16,7 @@ const projects = [
     tags: ["React", "Typescript", "Tailwind CSS"],
     image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
     demoUrl: "praharsh-tarsariya.vercel.app",
-    sourceUrl: "#"
+    sourceUrl: "https://github.com/Praharshhhhhhh/Profile-Website"
   },
   {
     title: "Hand Gesture Control Robot",
